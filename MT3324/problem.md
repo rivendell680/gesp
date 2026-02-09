@@ -4,7 +4,7 @@
 给出一个长度为 `n` 的数列 `a`。定义
 
 $$
- p_{i,j} = a_i \; \text{AND} \; a_{i+1} \; \text{AND} \; \cdots \; \text{AND} \; a_j
+ p_{i,j} = a_i \text{AND} a_{i+1} \text{AND} \cdots \text{AND} a_j
 $$
 
 其中 `AND` 表示按位与运算。请计算：
